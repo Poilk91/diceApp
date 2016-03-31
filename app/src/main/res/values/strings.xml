@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="roll_message">ROLL</string>
+    <string name="hold_message">HOLD</string>
+    <string name="reset_message">RESET</string>
+    <string name="content_description">DICE</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_score">Your Score: 0 Computer Score: 0</string>
+    <string name="default_current">Player Current Score: 0</string>
+</resources>
